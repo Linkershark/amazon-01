@@ -11,7 +11,7 @@ let userID = '4440036f-dd95-4052-b59e-30f14c83099b';
 
 // https://www.nslookup.io/domains/cdn.xn--b6gac.eu.org/dns-records/
 // https://www.nslookup.io/domains/cdn-all.xn--b6gac.eu.org/dns-records/
-const proxyIP= '38.181.70.15';
+let proxyIP= '38.181.70.15';
 
 //let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
